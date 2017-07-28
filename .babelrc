@@ -1,7 +1,7 @@
 {
   "presets": [["env", {
     "targets": {
-      "browsers": ["last 2 versions", "safari >= 7"]
+      "browsers": ["defaults", "chrome >= 27", "edge >= 14", "safari >= 6", "ie >= 7", "firefox >= 51"]
     }
   }]]
 }
